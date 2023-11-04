@@ -20,13 +20,13 @@ Every item you've picked up, every product you've chosen is automatically billed
 
 ##The Benefits
 
-Time-Saving => No more standing in line at the checkout. The time you save can be better spent doing things you love.
+1. Time-Saving => No more standing in line at the checkout. The time you save can be better spent doing things you love.
 
-Contactless: => In today's world, contactless shopping is a health-conscious choice. Reducing human interactions at the checkout counter can enhance safety.
+2. Contactless: => In today's world, contactless shopping is a health-conscious choice. Reducing human interactions at the checkout counter can enhance safety.
 
-Efficiency: => Automation reduces the chances of errors in billing. You pay for exactly what you've picked up.
+3. Efficiency: => Automation reduces the chances of errors in billing. You pay for exactly what you've picked up.
 
-Convenience: =>  The convenience factor is through the roof. Shopping has never been easier.
+4. Convenience: =>  The convenience factor is through the roof. Shopping has never been easier.
 
 #The Future Beckons
 
